@@ -26,6 +26,7 @@
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
