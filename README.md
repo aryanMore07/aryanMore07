@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/aryan-more-417497216/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web development<br>⚡ Fun fact : I'm a pro Googler 😜
+🔭 I’m currently working on Full stack projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about Web development<br>⚡ Fun fact : I'm a pro Googler 😜
 
 
 ## 🌐 Socials:
