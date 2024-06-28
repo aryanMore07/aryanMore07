@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/aryan-more-417497216/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about Web development<br>⚡ Fun fact : I'm a pro Googler 😜
+🔭 I’m currently working on Full Stack projects, leveraging my expertise in Next.js, React.js, and Redux to build dynamic and responsive applications.<br>🌱 I’m currently learning the MERN stack to expand my backend knowledge and integrate it seamlessly with my frontend skills.<br>💬 Ask me about state management with Redux Toolkit, creating intuitive UIs with MUI, or any other web development challenges.<br>⚡ Fun fact: I'm a pro Googler 😜, always ready to find the most efficient solutions to any coding problem!
 
 
 ## 🌐 Socials:
